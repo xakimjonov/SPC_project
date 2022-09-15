@@ -1,0 +1,347 @@
+{
+	"teachers": [
+		{
+			"id": 1,
+			"name": "Sug'diyona",
+			"surname": "Isroilova",
+			"phone": "+99890-741-18-03",
+			"date of birth": "18-03-2001",
+			"IELTS score": "6.5",
+			"CELTA score": "-"
+		},
+		{
+			"id": 2,
+			"name": "Muhammadbilolxon",
+			"surname": "unknown",
+			"phone": "+99891-177-20-24",
+			"date of birth": "2004",
+			"IELTS score": "6",
+			"CELTA score": "NO",
+			"savedTime": "Sun Aug 28 2022 10:47:49 GMT-0400 (Eastern Daylight Time)"
+		},
+		{
+			"id": 3,
+			"name": "Sarvinoz",
+			"surname": "Bahriddinova",
+			"phone": "+99890-598-77-27",
+			"date of birth": "26-08-2002",
+			"IELTS score": "8.0",
+			"CELTA score": "A",
+			"savedTime": "Sun Aug 28 2022 10:51:28 GMT-0400 (Eastern Daylight Time)"
+		},
+		{
+			"id": 4,
+			"name": "Anvarjon",
+			"surname": "unknown",
+			"phone": "unknown",
+			"date of birth": "2001",
+			"IELTS score": "6.0",
+			"CELTA score": "unknown",
+			"savedTime": "Sun Aug 28 2022 10:54:07 GMT-0400 (Eastern Daylight Time)"
+		},
+		{
+			"id": 5,
+			"name": "Oishaxon",
+			"surname": "Maxmudjanova",
+			"phone": "+99893-670-52-49",
+			"date of birth": "2006",
+			"IELTS score": "6.0",
+			"CELTA score": "NO",
+			"savedTime": "Sun Aug 28 2022 10:55:52 GMT-0400 (Eastern Daylight Time)",
+			"updatedTime": "2022-08-28T14:56:50.889Z"
+		},
+		{
+			"id": 6,
+			"name": "Behzod",
+			"surname": "unknown",
+			"phone": "+99897-371-54-53",
+			"date of birth": "",
+			"IELTS score": "7.0",
+			"CELTA score": "-",
+			"savedTime": "Sun Aug 28 2022 10:58:20 GMT-0400 (Eastern Daylight Time)"
+		}
+	],
+	"students": [
+		{
+			"id": 1,
+			"name": "Azizbek",
+			"surname": "Xakimiy",
+			"phone": "+99893-628-00-08",
+			"age": "19",
+			"his/her teacher": "Sug'diyona",
+			"group": "IELTS",
+			"savedTime": "Mon Aug 29 2022 07:46:56 GMT-0400 (Eastern Daylight Time)",
+			"updatedTime": "2022-08-29T11:47:07.208Z"
+		},
+		{
+			"id": 2,
+			"name": "Azizbek",
+			"surname": " ",
+			"phone": "+99893-628-00-08",
+			"age": "19",
+			"his/her teacher": "Sug'diyona",
+			"group": "IELTS",
+			"savedTime": "Mon Aug 29 2022 07:47:44 GMT-0400 (Eastern Daylight Time)"
+		},
+		{
+			"id": 3,
+			"name": "Azizbek",
+			"surname": "Xakimjonov",
+			"phone": "+99893-628-00-08",
+			"age": "19",
+			"his/her teacher": "Sug'diyona",
+			"group": "IELTS",
+			"savedTime": "Mon Aug 29 2022 07:48:25 GMT-0400 (Eastern Daylight Time)"
+		},
+		{
+			"id": 7,
+			"name": "Azizbek",
+			"surname": "Xakimjonov",
+			"phone": "+99893-628-00-08",
+			"age": "19",
+			"his/her teacher": "Sug'diyona",
+			"group": "IELTS",
+			"savedTime": "Mon Aug 29 2022 07:50:17 GMT-0400 (Eastern Daylight Time)"
+		},
+		{
+			"id": 9,
+			"name": "Azizbek",
+			"surname": "Xakimjonov",
+			"phone": "+99893-628-00-08",
+			"age": "19",
+			"teacher": "Sug'diyona",
+			"group": "IELTS",
+			"savedTime": "Mon Aug 29 2022 08:10:09 GMT-0400 (Eastern Daylight Time)"
+		},
+		{
+			"id": 10,
+			"name": "Azizbek",
+			"surname": "Xakimjonov",
+			"phone": "+99893-628-00-08",
+			"age": "19",
+			"teacher": "Sug'diyona",
+			"group": "IELTS",
+			"savedTime": "Mon Aug 29 2022 08:18:56 GMT-0400 (Eastern Daylight Time)"
+		},
+		{
+			"id": 11,
+			"name": "Azizbek",
+			"surname": "Xakimjonov",
+			"phone": "+99893-628-00-08",
+			"age": "19",
+			"teacher": "Ssdfgh",
+			"group": "IELTS",
+			"savedTime": "Mon Aug 29 2022 08:19:18 GMT-0400 (Eastern Daylight Time)"
+		},
+		{
+			"id": 18,
+			"name": "Azizbek",
+			"surname": "Xakimjonov",
+			"phone": "+99893-628-00-08",
+			"age": "19",
+			"teacher": "rtyghuj",
+			"group": "IELTS",
+			"savedTime": "Mon Aug 29 2022 08:23:07 GMT-0400 (Eastern Daylight Time)"
+		},
+		{
+			"id": 19,
+			"name": "Azizbek",
+			"surname": "Xakimjonov",
+			"phone": "+99893-628-00-08",
+			"age": "19",
+			"teacher": " ",
+			"group": "IELTS",
+			"savedTime": "Mon Aug 29 2022 08:26:03 GMT-0400 (Eastern Daylight Time)"
+		},
+		{
+			"id": 14,
+			"name": "Azizbek",
+			"surname": "Xakimjonov",
+			"phone": "+99893-628-00-08",
+			"age": "19",
+			"teacher": "Bekzod",
+			"group": "IELTS",
+			"savedTime": "Mon Aug 29 2022 08:37:49 GMT-0400 (Eastern Daylight Time)"
+		},
+		{
+			"id": 140,
+			"name": "Azizbek",
+			"surname": "Xakimjonov",
+			"phone": "+99893-628-00-08",
+			"age": "19",
+			"teacher": "B",
+			"group": "IELTS",
+			"savedTime": "Mon Aug 29 2022 08:38:05 GMT-0400 (Eastern Daylight Time)"
+		},
+		{
+			"id": 141,
+			"name": "Azizbek",
+			"surname": "Xakimjonov",
+			"phone": "+99893-628-00-08",
+			"age": "19",
+			"teacher": "Sug'diyona",
+			"group": "IELTS",
+			"savedTime": "Mon Aug 29 2022 08:44:58 GMT-0400 (Eastern Daylight Time)"
+		},
+		{
+			"id": 151,
+			"name": "Azizbek",
+			"surname": "Xakimjonov",
+			"phone": "+99893-628-00-08",
+			"age": "19",
+			"teacher": "Sug'diyona",
+			"group": "IELTS",
+			"savedTime": "Mon Aug 29 2022 10:22:56 GMT-0400 (Eastern Daylight Time)"
+		},
+		{
+			"id": 152,
+			"name": "Azizbek",
+			"surname": "Xakimjonov",
+			"phone": "+99893-628-00-08",
+			"age": "19",
+			"teacher": "Muhammadbilolxon",
+			"group": "IELTS",
+			"savedTime": "Mon Aug 29 2022 10:39:44 GMT-0400 (Eastern Daylight Time)"
+		},
+		{
+			"id": 153,
+			"name": "Azizbek",
+			"surname": "Xakimjonov",
+			"phone": "+99893-628-00-08",
+			"age": "19",
+			"teacher": "Oishaxon",
+			"group": "IELTS",
+			"savedTime": "Mon Aug 29 2022 10:40:00 GMT-0400 (Eastern Daylight Time)"
+		},
+		{
+			"id": 154,
+			"name": "Azizbek",
+			"surname": "Xakimjonov",
+			"phone": "+99893-628-00-08",
+			"age": "19",
+			"teacher": " gasg ",
+			"group": "IELTS",
+			"savedTime": "Mon Aug 29 2022 10:40:19 GMT-0400 (Eastern Daylight Time)"
+		},
+		{
+			"id": 155,
+			"name": "Azizbek",
+			"surname": "Xakimjonov",
+			"phone": "+99893-628-00-08",
+			"age": "19",
+			"teacher": "Oishaxon",
+			"group": "IELTS",
+			"savedTime": "Mon Aug 29 2022 10:41:41 GMT-0400 (Eastern Daylight Time)"
+		},
+		{
+			"id": 156,
+			"name": "Azizbek",
+			"surname": "Xakimjonov",
+			"phone": "+99893-628-00-08",
+			"age": "19",
+			"teacher": "Oishaxon",
+			"group": "IELTS",
+			"savedTime": "Mon Aug 29 2022 10:45:39 GMT-0400 (Eastern Daylight Time)"
+		},
+		{
+			"id": 157,
+			"name": "Azizbek",
+			"surname": "Xakimjonov",
+			"phone": "+99893-628-00-08",
+			"age": "19",
+			"teacher": "Bekzod",
+			"group": "IELTS",
+			"savedTime": "Mon Aug 29 2022 10:47:01 GMT-0400 (Eastern Daylight Time)"
+		},
+		{
+			"id": 158,
+			"name": "Azizbek",
+			"surname": "Xakimjonov",
+			"phone": "+99893-628-00-08",
+			"age": "19",
+			"teacher": "Behzod",
+			"group": "IELTS",
+			"savedTime": "Mon Aug 29 2022 10:47:35 GMT-0400 (Eastern Daylight Time)"
+		},
+		{
+			"id": 159,
+			"name": "Azizbek",
+			"surname": "Xakimjonov",
+			"phone": "+99893-628-00-08",
+			"age": "19",
+			"teacher": "Sug'diyona",
+			"group": "IELTS",
+			"savedTime": "Mon Aug 29 2022 10:50:37 GMT-0400 (Eastern Daylight Time)"
+		},
+		{
+			"id": 160,
+			"name": "Azizbek",
+			"surname": "Xakimjonov",
+			"phone": "+99893-628-00-08",
+			"age": "19",
+			"teacher": "Oishaxon",
+			"group": "IELTS",
+			"savedTime": "Mon Aug 29 2022 10:53:19 GMT-0400 (Eastern Daylight Time)"
+		},
+		{
+			"id": 161,
+			"name": "Azizbek",
+			"surname": "Xakimjonov",
+			"phone": "+99893-628-00-08",
+			"age": "19",
+			"teacher": "Behzod",
+			"group": "IELTS",
+			"savedTime": "Mon Aug 29 2022 10:53:46 GMT-0400 (Eastern Daylight Time)"
+		},
+		{
+			"id": 162,
+			"name": "Azizbek",
+			"surname": "Xakimjonov",
+			"phone": "+99893-628-00-08",
+			"age": "19",
+			"teacher": "Behzod",
+			"group": "IELTS",
+			"savedTime": "Mon Aug 29 2022 10:58:06 GMT-0400 (Eastern Daylight Time)"
+		},
+		{
+			"id": 163,
+			"name": "Azizbek",
+			"surname": "Xakimjonov",
+			"phone": "+99893-628-00-08",
+			"age": "19",
+			"teacher": "Sarvinoz",
+			"group": "IELTS",
+			"savedTime": "Mon Aug 29 2022 10:58:32 GMT-0400 (Eastern Daylight Time)"
+		},
+		{
+			"id": 164,
+			"name": "Azizbek",
+			"surname": "Xakimjonov",
+			"phone": "+99893-628-00-08",
+			"age": "19",
+			"teacher": "Sarvinoz",
+			"group": "IELTS",
+			"savedTime": "Mon Aug 29 2022 11:13:43 GMT-0400 (Eastern Daylight Time)"
+		},
+		{
+			"id": 200,
+			"name": "Azizbek",
+			"surname": "Xakimjonov",
+			"phone": "+99893-628-00-08",
+			"age": "19",
+			"teacher": "Oishaxon",
+			"group": "IELTS",
+			"savedTime": "Mon Aug 29 2022 11:16:42 GMT-0400 (Eastern Daylight Time)"
+		},
+		{
+			"id": 201,
+			"name": "Azizbek",
+			"surname": "Xakimjonov",
+			"phone": "+99893-628-00-08",
+			"age": "19",
+			"teacher": "Behzod",
+			"group": "IELTS",
+			"savedTime": "Mon Aug 29 2022 11:16:53 GMT-0400 (Eastern Daylight Time)"
+		}
+	]
+}
